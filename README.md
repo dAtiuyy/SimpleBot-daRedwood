@@ -1,4 +1,4 @@
-# SimpleBot-Scripts
+# SimpleBot-daRedwood
 Some SimpleBot scripts I wrote. 
 
 THese scripts are for simple bot https://simplebot.org/forums/
