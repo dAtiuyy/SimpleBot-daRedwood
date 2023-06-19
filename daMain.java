@@ -12,7 +12,7 @@ import simple.hooks.wrappers.SimpleObject;
 import simple.robot.script.Script;
 
 
-@ScriptManifest(author = "unix && alex", category = Category.WOODCUTTING, description = "Cuts Redwood, collects clues, bird eggs and banks it all", discord = "empty",
+@ScriptManifest(author = "unix && alex", category = Category.WOODCUTTING, description = "Cuts Redwood, collects clues, bird eggs and banks it all, both the redwood and the deposit box must be visible for this to work", discord = "empty",
         name = "daRedwood Chopper", servers = { "Battlescape" }, version = "1.0")
 public class daMain extends Script {
 
